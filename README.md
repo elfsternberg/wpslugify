@@ -43,7 +43,8 @@ and was starting to need them for my other project.
 
 This slugification library is Copyright [Elf
 M. Sternberg](https://elfsternberg.com) (c) 2019, and licensed with the
-Mozilla Public License vers. 2.0.  A copy of the license file is
-included in the root folder.
+Mozilla Public License vers. 2.0.  A copy of the [license
+file](./docs/LICENSE.md) is included in the `docs/` folder.
+
 
 
