@@ -22,7 +22,7 @@ In the library you'll find a series of tests that show off what it does.
 ## Reasons
 
 Mostly, I needed a slugification function and the ones I found on
-crates.io didn't thrill me.  URLs and Database are UTF-8 aware these
+crates.io didn't thrill me.  URLs and Databases are UTF-8 aware these
 days, and the most popular ones either use
 [`deunicode`](https://docs.rs/deunicode/1.1.1/deunicode/) or do other
 sorts of mangling.
