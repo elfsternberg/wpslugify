@@ -1,0 +1,17 @@
+[package]
+name = "wpslugify"
+version = "0.1.0"
+authors = ["Elf M. Sternberg <elf.sternberg@gmail.com>"]
+edition = "2018"
+license = "MPL-2.0+"
+description = "Wordperfect compatible slugification functions"
+repository = "https://github.com/elfsternberg/wpslugify"
+readme = "./README.md"
+
+[dependencies]
+lazy_static = "1.4.0"
+regex = "1.3.9"
+
+[lib]
+name = "wpslugify"
+path = "src/lib.rs"
